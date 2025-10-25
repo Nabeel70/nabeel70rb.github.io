@@ -5,6 +5,8 @@ permalink: /publication/adaptability-synthesis-iot-performance-2023
 excerpt: "Ontology driven survey of 158 IoT performance metrics organized across twelve measurement categories for holistic assessment."
 date: 2023-12-31
 venue: "Journal of Policy Research"
+link: "https://jprpk.com/index.php/jpr/article/view/439"
+paperurl: "https://jprpk.com/index.php/jpr/article/view/439"
 authors: "Muhammad Nabeel Amin"
 ---
 

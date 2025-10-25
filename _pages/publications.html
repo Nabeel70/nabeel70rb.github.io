@@ -11,28 +11,42 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
 {% assign publications_sorted = site.publications | sort: 'date' | reverse %}
 
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in publications_sorted %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
+<div class="publications">
   {% for post in publications_sorted %}
-    {% include archive-single.html %}
+    <article class="publication-entry">
+      <h2 class="publication-title">
+        {% if post.link %}
+          <a href="{{ post.link }}">{{ post.title }}</a>
+        {% else %}
+          <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
+        {% endif %}
+      </h2>
+
+      <p class="publication-meta">
+        {% assign publication_date = post.date | default: "1900-01-01" %}
+        <strong>{{ post.venue }}</strong> · {{ publication_date | date: "%B %d, %Y" }}
+        {% if post.paperurl %}
+          · <a href="{{ post.paperurl }}">Show publication</a>
+        {% elsif post.link %}
+          · <a href="{{ post.link }}">Show publication</a>
+        {% else %}
+          · <a href="{{ base_path }}{{ post.url }}">Permalink</a>
+        {% endif %}
+      </p>
+
+      {% if post.excerpt %}
+        <p class="publication-excerpt">{{ post.excerpt }}</p>
+      {% endif %}
+
+      <div class="publication-body">
+        {{ post.content | markdownify }}
+      </div>
+    </article>
+    <hr />
   {% endfor %}
-{% endif %}
+</div>
 
 
 

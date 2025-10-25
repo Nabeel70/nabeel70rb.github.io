@@ -52,7 +52,7 @@ Publications
 * [Efficient ML Technique for Brain Tumor Segmentation and Detection Based on MRI Scans Using CNNs](https://sesjournal.com/index.php/1/article/view/202) — *Spectrum of Engineering Sciences*, Mar 2025.  
 * [Enhanced Deep Learning Based Precision Agriculture: A Decision Support System for Enhancing Crop Recommendation Accuracy Using CNNs](https://www.journalimcms.org/journal/enhanced-deep-learning-based-precision-agriculture-a-decision-support-system-for-enhancing-crop-recommendation-accuracy-using-convolutional-neural-networks-cnn/) — *Journal of Mechanics of Continua and Mathematical Sciences*, Sep 2024.  
 * [Anomaly Detection in IoT](https://contemporaryjournal.com/index.php/14/article/view/81) — *Contemporary Journal of Social Science Review*, Jul 2024.  
-* An Efficient Systematic Approach for Adaptability Synthesis of IoT Performance — *Journal of Policy Research*, Dec 2023.
+* [An Efficient Systematic Approach for Adaptability Synthesis of IoT Performance](https://jprpk.com/index.php/jpr/article/view/439) — *Journal of Policy Research*, Dec 2023.
 
 Projects
 ======
