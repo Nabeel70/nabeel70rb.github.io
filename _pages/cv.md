@@ -56,11 +56,11 @@ Publications
 
 Projects
 ======
-* **Medical Image Segmentation Using U-Net** (Nov 2024 – May 2025) — Achieved 88–92% segmentation accuracy with TensorFlow, U-Net, and mathematical optimization.  
-* **Drowsiness Detection for Drivers** (Jan 2025) — Delivered 92% real-time detection accuracy via OpenCV, Dlib, and ML classifiers.  
-* **Medical Image Segmentation Using U-Net** (Jun 2022 – Aug 2022) — Reached a DICE coefficient of 0.88 for diagnostic support in low-visibility imaging.  
-* **Object Detection for Autonomous Vehicles** (Jan 2022 – Apr 2022) — Built YOLO + CNN pipelines with 90%+ accuracy in challenging visibility conditions.  
-* **Real-time Semantic-Aware Image Fusion** (Jun 2021 – Jul 2021) — Integrated multispectral MFNet data for 95% fusion accuracy to enhance perception systems.
+* **Machine Learning Pipelines with Azure ML Studio** (Nov 2024 – May 2025) — Built Azure ML pipeline for automated real-time inference using boosted trees (AUC/ROC).
+* **Reinforcement Learning Based Power Optimization for IoT Systems** (Jun 2022 – Aug 2022) — Designed a DQN/PPO controller for IoT systems, cutting power consumption by 20% while maintaining service quality.
+* **Drowsiness Detection for Drivers using OpenCV** (Jan 2025) — Delivered 92% real-time detection accuracy via OpenCV, Dlib, and ML classifiers.
+* **Object Detection for Autonomous Vehicles Using YOLO and Deep Learning** (Jan 2022 – Apr 2022) — Deployed TensorFlow/PyTorch pipelines surpassing 90% detection accuracy with 80% automation.
+* **Real-time Semantic-Aware Image Fusion** (Jun 2021 – Jul 2021) — Integrated multispectral MFNet data to reach 95% fusion accuracy in low-visibility scenarios.
 
 Talks and conferences
 ======
