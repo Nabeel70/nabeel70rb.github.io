@@ -13,5 +13,5 @@ author_profile: true
   Awarded a fully funded PEEF Academic Excellence scholarship during BSCS for ranking in the top 5%.
 - **Google** — Google CloudSeekho Season 5 Winner (2023)  
   Earned 19 badges, captured Google prizes, and strengthened expertise in AI, Cloud, and Computer Vision.
-- **GC University, Faisalabad** — Microsoft Student Learn Ambassador (Jan 2021 – Apr 2021)  
-  Represented Microsoft within the campus community, organised weekly digital skills sprints, and guided student cohorts in deploying cloud-native prototypes that accelerated adoption of the Microsoft Learn ecosystem.
+- **Microsoft** — Microsoft Student Learn Ambassador (Jan 2021 – Apr 2021)  
+  Represented Microsoft within the campus community in GC University, Faisalabad, organised weekly digital skills sprints, and guided student cohorts in deploying cloud-native prototypes that accelerated adoption of the Microsoft Learn ecosystem.
