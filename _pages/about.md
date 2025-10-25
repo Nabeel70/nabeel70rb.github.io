@@ -11,7 +11,7 @@ Innovative Computer Science graduate with 4+ years of experience in industry and
 
 ## Core focus areas
 
-- End-to-end ML & DL solution delivery (TensorFlow, PyTorch, YOLO, OpenCV)
+- End-to-end ML & DL solution delivery (TensorFlow, PyTorch, YOLO, OpenCV, Reinforcement learning, Explainable AI,)
 - Data engineering, analytics, and interactive dashboards (Tableau, Power BI)
 - Privacy-aware AI systems and applied research for healthcare and agriculture
 - Technical mentorship, community enablement, and cross-functional leadership
