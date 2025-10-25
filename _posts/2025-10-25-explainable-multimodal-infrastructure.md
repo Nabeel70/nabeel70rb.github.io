@@ -1,7 +1,6 @@
 ---
 title: "Explainable Multimodal Models for Critical Infrastructure"
-date: 2026-01-15
-permalink: /posts/2026/01/explainable-multimodal-models/
+date: 2025-10-25
 categories: [Research, Explainable AI]
 tags: [Multimodal Learning, Explainability, Critical Infrastructure]
 ---
