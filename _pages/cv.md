@@ -64,8 +64,10 @@ Projects
 
 Talks and conferences
 ======
-* **Symposium on Indigenous Innovations**, Superior University — Speaker (Nov 2024 – Present). [Certificate](https://drive.google.com/file/d/1TqreNvSYmue-ejVTJGsGwo9V1uYyVqMx/view?usp=sharing)  
-* **International Conference on Computing & Emerging Technologies (ICCET 2023)**, Superior University — Presenter (May 2023 – Present). [Certificate](https://drive.google.com/file/d/1atMo4sM25z0iRm8cSjQUscVJ6Pmk6bj-/view?usp=sharing)
+* **International Diversity and Inclusion in Erasmus+ Mobility**, Online Event, DiEM Project Consortium (Sep 2025). 
+
+* **Symposium on Indigenous Innovations**, Superior University — Speaker (Nov 2024). [Certificate](https://drive.google.com/file/d/1TqreNvSYmue-ejVTJGsGwo9V1uYyVqMx/view?usp=sharing)  
+* **International Conference on Computing & Emerging Technologies (ICCET 2023)**, Superior University — Presenter (May 2023). [Certificate](https://drive.google.com/file/d/1atMo4sM25z0iRm8cSjQUscVJ6Pmk6bj-/view?usp=sharing)
 
 Teaching
 ======

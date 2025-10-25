@@ -11,7 +11,7 @@ Innovative Computer Science graduate with 4+ years of experience in industry and
 
 ## Core focus areas
 
-- End-to-end ML & DL solution delivery (TensorFlow, PyTorch, YOLO, OpenCV, Reinforcement learning, Explainable AI,)
+- End-to-end ML & DL solution delivery (TensorFlow, PyTorch, YOLO, OpenCV, Reinforcement learning, Neural computations,and more)
 - Data engineering, analytics, and interactive dashboards (Tableau, Power BI)
 - Privacy-aware AI systems and applied research for healthcare and agriculture
 - Technical mentorship, community enablement, and cross-functional leadership
@@ -22,6 +22,7 @@ Innovative Computer Science graduate with 4+ years of experience in industry and
 - Led precision agriculture research that reached 99.7% training accuracy with optimized CNN architectures.
 - Delivered real-time CV and NLP systems leveraging YOLOv5, Transformers, and advanced feature engineering.
 - Built scalable analytics dashboards that cut data processing time by 60% and improved decision agility.
+- articipated and Lead in multiple hackathons: NASA Space App challenge, Meta Hacker Cup 2025, and Lablabai.
 
 ## Certifications
 
