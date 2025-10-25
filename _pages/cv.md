@@ -73,12 +73,21 @@ Teaching
 ======
 * **Coding Tutor**, AirClass (Jan 2020 – Jul 2025) — Delivered Python, AI, and project-based learning for 100+ students worldwide.
 
-Service and leadership
+
+Key Activities and Leadership
 ======
-* Member, Superior Research Society (2025 – Present) — Led research events, mentored 30+ students, and boosted participation by 40%.  
-* Microsoft Student Learn Ambassador, GC University (Jan 2021 – Apr 2021) — Bridged students and Microsoft, facilitating technical literacy initiatives.  
-* Captain, GC University Cricket Team (2020 – 2021) — Led team operations; awarded “Best Batsman” by Nawaz Cricket Club.  
-* Flood Relief & Student Volunteer Leader, Village Outreach Program (Jun 2018 – Oct 2020) — Raised 70,000 PKR and coordinated 50+ workshops for 500+ community members.
+* **Superior Research Society** — Chief Member (Jan 2025 – Present)  
+  Led research events that increased student participation by 40%, mentored 30+ students, and contributed to multiple projects published in top-tier journals.
+* **NASA Space Agency** — Team Lead, International Space Apps Challenge (Oct 2025)  
+  Directed the design of a predictive system using Random Forest models to forecast global rainfall from NASA satellite data.
+* **IEEE** — Peer Reviewer (May 2025 – Present)  
+  Conducted comprehensive reviews for scholarly manuscripts across AI and IoT domains.
+* **GC University, Faisalabad** — Microsoft Student Learn Ambassador (Jan 2021 – Apr 2021)  
+  Advocated digital skills adoption, coordinating student engagement with Microsoft platforms.
+* **GC University Cricket Team** — Captain (2020 – 2021)  
+  Led the university cricket squad and earned the Best Batsman award.
+* **MM Foundation Village Outreach Program** — Flood Relief & Volunteer Leader (Jun 2018 – Oct 2020)  
+  Raised 70K PKR and organized 50+ workshops benefiting over 500 community members.
 
 Honours and awards
 ======
