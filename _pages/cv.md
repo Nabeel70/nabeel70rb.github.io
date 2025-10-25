@@ -46,15 +46,13 @@ Skills
 
 Publications
 ======
-* “12 Virtual Memory Management” — *Securing the Digital Realm: Advances in Hardware and Software Security, Communication, and Forensics*, 2025.  
-* “Efficient ML Technique for Brain Tumor Segmentation and Detection based on MRI Scans Using CNNs” — *Spectrum of Engineering Sciences*, 2025.  
-* “Reliable Federated Learning (RDL) Assisted Intrusion Detection and Classification Using SSL/TLS” — *Annual Methodological Archive Research Review*, 2025.  
-* “Enhanced IoT Network Security for Intrusion Detection Using Machine Learning” — *Annual Methodological Archive Research Review*, 2025.  
-* “Intelligence-based Self-Healing Network Design for IoT Security Breaches” — *Annual Methodological Archive Research Review*, 2025.  
-* “Anomaly Detection in IoT” — *Contemporary Journal of Social Science Review*, 2024.  
-* “Deep Neural Networks Based Crop Classification in Agriculture Applications Using CropDeep Dataset” — *Authorea Preprints*, 2024.  
-* “Enhanced Deep Learning Based Precision Agriculture for Crop Recommendation Accuracy” — *Journal of Mechanics of Continua and Mathematical Sciences*, 2024.  
-* “Virtual Memory Management Techniques” — *Securing the Digital Realm*, 2024.
+* [Enhanced IoT Network Security for Network Intrusion Detection Model Based on Machine Learning Technique](https://amresearchreview.com/index.php/Journal/article/view/551/591) — *Annual Methodological Archive Research Review*, Aug 2025.  
+* [Intelligence Based Self-Healing Network Design: An Automated Incident Response System for Troubleshooting of IoT Security Breaches](https://amresearchreview.com/index.php/Journal/article/view/548) — *Annual Methodological Archive Research Review*, Aug 2025.  
+* [Reliable Federated Learning Assisted Intrusion Detection and Classification Using SSL/TLS](https://amresearchreview.com/index.php/Journal/article/view/437) — *Annual Methodological Archive Research Review*, Jul 2025. [DOI](https://doi.org/10.63075/fbeebj84)  
+* [Efficient ML Technique for Brain Tumor Segmentation and Detection Based on MRI Scans Using CNNs](https://sesjournal.com/index.php/1/article/view/202) — *Spectrum of Engineering Sciences*, Mar 2025.  
+* [Enhanced Deep Learning Based Precision Agriculture: A Decision Support System for Enhancing Crop Recommendation Accuracy Using CNNs](https://www.journalimcms.org/journal/enhanced-deep-learning-based-precision-agriculture-a-decision-support-system-for-enhancing-crop-recommendation-accuracy-using-convolutional-neural-networks-cnn/) — *Journal of Mechanics of Continua and Mathematical Sciences*, Sep 2024.  
+* [Anomaly Detection in IoT](https://contemporaryjournal.com/index.php/14/article/view/81) — *Contemporary Journal of Social Science Review*, Jul 2024.  
+* An Efficient Systematic Approach for Adaptability Synthesis of IoT Performance — *Journal of Policy Research*, Dec 2023.
 
 Projects
 ======
