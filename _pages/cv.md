@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+You can also download or view the full CV document <a href="https://drive.google.com/file/d/1r4FblytcGStnULRF1JdU0pBGQt_8yFLO/view?usp=sharing" target="_blank" rel="noopener">Here</a>.
+
 Education
 ======
-* **B.Sc. (Hons) Computer Science**, Government College University, Faisalabad — Faisalabad, Pakistan (Sep 2017 – Sep 2021)  
+* **B.S (Hons) Computer Science**, Government College University, Faisalabad — Faisalabad, Pakistan (Sep 2017 – Sep 2021)  
   * GPA: 3.23/4.0 &nbsp;|&nbsp; Fully funded PEEF Scholar (Top 5%)  
   * Thesis: *AI-Driven Privacy Preservation in Real-Time Video Surveillance*  
   * Focus: Deep learning, anonymization, and real-time video analytics.
