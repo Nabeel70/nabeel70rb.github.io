@@ -15,6 +15,9 @@ author_profile: true
 
 <div class="publications">
   {% for post in publications_sorted %}
+    {% if post.published == false %}
+      {% continue %}
+    {% endif %}
     <article class="publication-entry">
       <h2 class="publication-title">
         {% if post.link %}
