@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Innovative Computer Science graduate with 4+ years of experience in industry and acacademia delivering production-grade machine learning, computer vision, IOT, Deep learning and data related solutions. I specialize in building scalable Python pipelines, optimizing deep learning models, and translating complex datasets into strategic insights that elevate business impact.
+Innovative Computer Science graduate with 4+ years of experience in industry and academia delivering production-grade machine learning, computer vision, IOT, Deep learning and data-related solutions. I specialize in building scalable Python pipelines, optimizing deep learning models, and translating complex datasets into strategic insights that elevate business impact.
 
 ## Core focus areas
 
